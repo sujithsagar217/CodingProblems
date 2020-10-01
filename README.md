@@ -1,3 +1,3 @@
 # CodingProblems
 
-Problems submiited from leetcode
+Problems submitted from leetcode
